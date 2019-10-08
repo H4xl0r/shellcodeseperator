@@ -1,5 +1,5 @@
-## obfuscating meterpreter reverse_tcp shellcode
-混淆meterpretershellcode，当然别的也可以
+## seperate meterpreter reverse_tcp shellcode
+分隔meterpretershellcode，当然别的也可以
 ## replace CODE variable with your own shellcode
 把CODE变量替换成你的shellcode
 ## this script requires python3
